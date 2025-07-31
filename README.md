@@ -1,4 +1,4 @@
-**ZefoyViewSender** is a lightweight automation tool built with Python and Selenium to interact with the [Zefoy.com](https://zefoy.com) platform.
+**ZefoyViews** is a lightweight automation tool built with Python and Selenium to interact with the [Zefoy.com](https://zefoy.com) platform.
 It automates the process of sending free TikTok views without requiring any login or TikTok credentials.
 
 Using Zefoy’s built-in services, this tool can deliver **500+ views** per submission, with a typical cooldown of **every 5 minutes**. All CAPTCHA handling is done manually at the start, and the rest is fully automated.
