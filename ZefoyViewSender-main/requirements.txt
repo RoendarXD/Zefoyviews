@@ -1,4 +1,2 @@
 selenium
 rich
-chromedriver
-python
